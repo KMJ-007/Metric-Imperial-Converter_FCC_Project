@@ -56,13 +56,13 @@ Write the following tests in tests/1_unit-tests.js:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/KMJ-007/headerParser-Api-Microservice.git
+git clone https://github.com/KMJ-007/Metric-Imperial-Converter_FCC_Project.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd headerParser-Api-Microservice
+cd Metric-Imperial-Converter_FCC_Project
 ```
 
 3. Install dependencies
@@ -76,7 +76,7 @@ npm install
 5. Run the app
 
 ```bash
-npm run dev
+npm run start
 ```
 
 You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
