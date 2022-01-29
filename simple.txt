@@ -1,0 +1,21 @@
+let's understand the problem
+
+we will get the number and unit as post request from front end then we have to convert the given value in to the other unit like mi to km and km to mi,
+
+so first of all let's see what unit we have to handle vice versa
+
+1. gal --> L 
+2. mi  --> km
+3. lbs --> kg
+
+so we have 6 edge cases to handle for converting 
+
+other problem is the type of input given by the user 
+like user can give the input in 
+
+1. whole number (5)
+2. decimal number (5.5)
+3. fractional (1/2)
+4. fractional input with decimal (1.5/2)
+
+--> and when no number is given in the input we have to take the default as 1 in the input 
