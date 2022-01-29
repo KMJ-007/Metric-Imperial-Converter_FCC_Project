@@ -1,7 +1,7 @@
 # [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
 
 
-## This project part of free code camp quality assurance module, i learned mocha-chai for testing.  
+## This project is part of free code camp quality assurance module, i learned mocha-chai for testing.  
 ### live demo [here](https://metric-imperial-converterfccproject.karanmj.repl.co/)
   
  
